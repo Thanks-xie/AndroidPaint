@@ -1,0 +1,3 @@
+# AndroidPaint
+
+利用Paint和Canvas来画静态图与动态图
